@@ -50,3 +50,9 @@ div.imagen div.contenedor-de-texto{
     margin-left: 700px;
     margin-right: 100px;
 }
+.mi-nombre, .mi-universidad, .mi-carrera{
+    color: black;
+    font-weight: bolder;
+
+}
+
