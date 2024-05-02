@@ -1,0 +1,24 @@
+html, body {
+    height:100%;
+    box-sizing: border-box;
+} 
+body {
+    background-color: #033170;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+  }
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 5vw;
+}
