@@ -58,24 +58,17 @@ div.imagen div.contenedor-de-texto{
     font-weight: bolder;
 
 }
-div.links .Instagram{
+div.links .Instagram,.Linktree{
     display: block;
     position: relative;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    vertical-align: text-bottom;
-    top: 550px;
-    margin-left: 800px;
-    background: url(/recursos/instagram.png);
-    background-repeat: no-repeat;
-    background-size: 16px 16px;
-    text-indent: -9999px;
-
 }
-div.links .Linktree{
-    display: block;
-    background: url(/recursos/linktree.png);
-    background-repeat: no-repeat;
-    background-size: 3%;
-    text-indent: -9999px;
+div.links .Instagram .icono-instagram{
+    width: 3%;
+    height: auto;
+    margin-left: 200px;
 }
-
+div.links .Linktree .icono-linktree{
+    width: 3%;
+    height: auto;
+    margin-left: 500px;
+}
