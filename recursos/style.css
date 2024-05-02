@@ -6,6 +6,8 @@ body {
     background-size: 100% 100%;
   }
 div.header {
+    line-height: 80px;
+    vertical-align: middle;
     display: flex;
     align-items: center;
     background: #F50707;
@@ -58,17 +60,20 @@ div.imagen div.contenedor-de-texto{
     font-weight: bolder;
 
 }
-div.links .Instagram,.Linktree{
+ul{
+    list-style: none;
+}
+div.links .Instagram .hinst{
     display: block;
     position: relative;
+    text-align: center;
+
 }
-div.links .Instagram .icono-instagram{
-    width: 3%;
-    height: auto;
-    margin-left: 200px;
-}
-div.links .Linktree .icono-linktree{
-    width: 3%;
-    height: auto;
-    margin-left: 500px;
+div.links .Linktree .hlink{
+    display: block;
+    position: relative;
+    text-align: center;
+    margin-right: 500px;
+    margin-bottom: 70px;
+    bottom: 63px;
 }
