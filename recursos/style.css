@@ -77,3 +77,6 @@ div.links .Linktree .hlink{
     margin-bottom: 70px;
     bottom: 63px;
 }
+audio{
+    display: none;
+}
