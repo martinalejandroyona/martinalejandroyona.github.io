@@ -77,6 +77,20 @@ div.links .Linktree .hlink{
     margin-bottom: 70px;
     bottom: 63px;
 }
+nav.canciones-favoritas{
+    display:block;
+    position: relative;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #F50707;
+    align-items: center;
+
+}
+a{
+    color: #F50707;
+}
+a:hover{
+    color: white;
+}
 audio{
     display: none;
 }
